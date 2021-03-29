@@ -106,7 +106,8 @@ Twint is an advanced Twitter scraping tool written in Python that allows for scr
 |     1    |  0  |   3   | ... |    1    |
 |     2    |  1  |   2   | ... |    0    |<br><br> 
 
->   - **There are several different ways we can vectorize our text:**
+
+- **There are several different ways we can vectorize our text:**
       - Count vectorization
       - Term Frequency-Inverse Document Frequency (TF-IDF)
       - Word Embeddings (Deep NLP)
@@ -123,7 +124,7 @@ Below is a box plot that shows the distribution of how the price of Bitcoin chan
 
 ![graph1](./images/boxplot.png)
 
-There are individuals, like Mark Cuban, Elon Musk, Brian Armstrong, and Fox News, who do not make many comments regarding Bitcoin, have isolated points on the plot, which could mean that on that day, the comment was impactful. 
+There are individuals, like Mark Cuban, Elon Musk, Brian Armstrong, and Fox News, who do not make many comments regarding Bitcoin and have isolated points on the plot, which could mean that on that day, their comment was impactful. 
 
 After analyzing their tweets, it was noticed that there were times when Elon Musk and Mark Cuban wrote a positive tweet regarding cryptocurrency, the price went up drastically.It is really difficult to state that those price changes were caused by the actual tweets, because there were instances where comments were made, but there were no significant changes.
 
