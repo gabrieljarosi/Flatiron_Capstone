@@ -108,9 +108,9 @@ Twint is an advanced Twitter scraping tool written in Python that allows for scr
 
 
 - **There are several different ways we can vectorize our text:**
-      - Count vectorization
-      - Term Frequency-Inverse Document Frequency (TF-IDF)
-      - Word Embeddings (Deep NLP)
+  - Count vectorization
+  - Term Frequency-Inverse Document Frequency (TF-IDF)
+  - Word Embeddings (Deep NLP)
     
    
 <font size = "1">**Information taken from Flatiron School Natural Language Processing Section and from instructor James Irving.**</font>
@@ -164,7 +164,7 @@ As stated at the beginning of the notebook, the goals of this project were:
 
 1. Successfully scrappe archived tweets.
 2. Determine if influential and powerful individuals do actually have an impact of the price of Bitcoin by analyzing their Twitter comments.
-- Determine the best method to analyze and model tweets.
+3. Determine the best method to analyze and model tweets.
 
 Only 1 goal, to successfully scrappe archived tweets, was achieved successfully. They will be explained more in depth below.
 
