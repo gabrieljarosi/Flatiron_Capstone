@@ -1,5 +1,4 @@
 # The impact of Twitter comments on the price of Bitcoin
-## Using Emsemble and NLP Methods
 
 **Author:** Gabriel J. Araujo<br><br>
 The contents of this repository detail an analysis of the Flatiron Data Science Capstone project. This analysis is detailed in hopes of making the work accessible and replicable.
