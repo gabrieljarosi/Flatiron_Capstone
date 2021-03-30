@@ -200,7 +200,7 @@ Only 1 goal, to successfully scrappe archived tweets, was achieved successfully.
 <font size = 3><center>**Random Forrest Classifier Confusion Matrix**</center></font>
 ![graph4](./images/rf_matrix.png)    
 
-The random forest model with just the engineered columns did not perform too well. It only correctly classified 67% of the Neutral tweets and 41% of the impactful tweets. Since there is a significant class imbalance, most of the models predictions are falling into the neutral categories.
+The random forest model with just the engineered columns did not perform too well. It only correctly classified 66% of the Neutral tweets and 44% of the impactful tweets. Since there is a significant class imbalance, most of the models predictions are falling into the neutral categories.
 
 <font size = 3><center>**RNN Confusion Matrix**</center></font>
 ![graph5](./images/RNN_matrix.png) 
