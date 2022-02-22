@@ -7,7 +7,7 @@ The contents of this repository detail an analysis of the Flatiron Data Science 
 
 On 18 August 2008, the domain name bitcoin.org was registered. Bitcoin is a cryptocurrency, a digital asset designed to work as a medium of exchange that uses cryptography to control its creation and management, rather than relying on central authorities. When this currency was first created, each coin was worth basically nothing. Today, a single coin is worth over $50,000.00. Most people, with myself included, have difficulties in understanding the reason for this high value, mainly because it is not a physical product and it isn't accepted by most banks and companies yet.
 
-News such as the ones below makes me wonder, maybe Bitcoin is just a fad that is highly influenced on the comments of powerful and influential people. Perhaps, regular people see billionaires like Elon Musk and Mark Cuban making positive comments regarding Bitcoin and think: "If these guys, who are rich and powerful, believe in Bitcoin, it means that it must be really profitable and I could become rich like them.", when in reality, it isn't worth anything.
+News such as the ones below make me wonder, maybe Bitcoin is just a fad that is highly influenced on the comments of powerful and influential people. Perhaps, regular people see billionaires like Elon Musk and Mark Cuban making positive comments regarding Bitcoin and think: "If these guys, who are rich and powerful, believe in Bitcoin, it means that it must be really profitable and I could become rich like them.", when in reality, it isn't worth anything.
 
 ![graph1](./images/mark_cuban_news.png)
 <br>
